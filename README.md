@@ -1,2 +1,13 @@
-# Codebasics-Excel
-In this repository, you will find a collection of Excel assignments completed during the CodeBasics bootcamp. Excel is a powerful tool for data analysis, reporting, and automation, and these assignments will help you sharpen your skills in using Excel for various tasks.Feel free to explore each assignment folder to access the Excel files.
+# Sales and Finance reports using Excel
+## 🔧 **Excel Proficiency:**
+
+**Basic Excel:** Mastered essential tasks such as navigating worksheets, creating formulas, and designing charts to visualize data effectively.
+**Combining Data:** Proficient in using VLOOKUP, HLOOKUP, and XLOOKUP to integrate different datasets seamlessly.
+**Data Transformation using Power Query:** Skilled in cleaning, combining, and transforming data for deeper analysis and insights.
+**Pivot Table and Power Pivot:** Adept at summarizing large datasets, managing complex calculations, and modeling data to uncover trends and patterns.
+## 📊 **Sales and Finance Analytics:**
+
+Utilized Excel for detailed sales and financial analysis, identifying trends and evaluating performance metrics.
+## **📈 Generating Reports:**
+
+Experienced in creating informative and visually appealing reports that communicate valuable insights clearly and effectively.
